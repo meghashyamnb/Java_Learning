@@ -8,6 +8,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Shyam N B" />
+        <option value="Shyam" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WqfWvmcruVkzvqFMT2Tm7pJkaV" />
@@ -29,5 +35,11 @@
       <updated>1579882080986</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="323" y="42" key="CommitChangelistDialog2" timestamp="1580141179947">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="323" y="42" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1580141179947" />
   </component>
 </project>
