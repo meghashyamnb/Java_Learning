@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1887f4f0-47d4-423e-ae3c-0af1c618d3e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ListandArray/src/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListandArray/src/GroceryList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListandArray/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListandArray/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListandArray/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListandArray/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +22,20 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Shyam" />
         <option value="shyam" />
         <option value="Shyam N B" />
-        <option value="Shyam" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/meghashyamnb/Java_Learning.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1WqfWvmcruVkzvqFMT2Tm7pJkaV" />
   <component name="ProjectViewState">
@@ -37,10 +45,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -60,22 +70,85 @@
       <option name="project" value="LOCAL" />
       <updated>1580141199537</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="from Mac&#10;No change">
+      <created>1580144369261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580144369261</updated>
+    </task>
+    <task id="LOCAL-00003" summary="from Mac&#10;GroceryList added">
+      <created>1580145984582</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580145984582</updated>
+    </task>
+    <task id="LOCAL-00004" summary="from Mac&#10;GroceryList added">
+      <created>1580147050514</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580147050514</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="from Mac&#10;No change" />
-    <option name="LAST_COMMIT_MESSAGE" value="from Mac&#10;No change" />
+    <MESSAGE value="from Mac&#10;GroceryList added" />
+    <option name="LAST_COMMIT_MESSAGE" value="from Mac&#10;GroceryList added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="323" y="18" key="CommitChangelistDialog2" timestamp="1580144232887">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580147081948">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="323" y="18" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580144232887" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1580147081948" />
+    <state x="486" y="342" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580146252313">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="486" y="342" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1580146252313" />
+    <state x="323" y="18" key="CommitChangelistDialog2" timestamp="1580183246297">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="323" y="18" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580183246297" />
     <state x="323" y="40" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1580141199419" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1580146959415">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.830@0.23.1440.830" timestamp="1580146959415" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1580147354105">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580147354105" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580147232736">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.830@0.23.1440.830" timestamp="1580147232736" />
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580146212254">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1580146212254" />
     <state x="97" y="72" key="new project wizard" timestamp="1580141268979">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="97" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1580141268979" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1580146204178">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1580146204178" />
   </component>
 </project>
